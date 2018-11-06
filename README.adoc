@@ -4,4 +4,6 @@ A simple test of sbmc
 
 * http://www.cprover.org/jbmc/[Compile] jbmc 5.10: git clone, git checkout, then follow the make instructions.
 * In `cbmc/jbmc/lib/java-models-library` folder: `mvn install`
+* export cbmc=path-to-cbmc
+* execute `jbmc` (or open it to see what it does)
 
