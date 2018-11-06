@@ -1,4 +1,4 @@
-package io.github.oliviercailloux.sbmc;
+package io.github.oliviercailloux.y2018.sbmc;
 
 import org.cprover.CProver;
 
